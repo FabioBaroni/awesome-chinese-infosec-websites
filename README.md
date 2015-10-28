@@ -316,3 +316,5 @@ http://www.0xmh.com
 http://translate.wooyun.io
 
 http://tdifg.com
+
+http://justhaifei1.blogspot.in/
