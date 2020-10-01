@@ -1,5 +1,5 @@
-# awesome-chinese-infosec-websites
-A curated list of Chinese websites and personal blogs about ethical hacking and pentesting brought you by http://www.pentest.guru .
+# awesome-chinese-infosec-websites....
+A curated list of best Chinese websites and personal blogs about ethical hacking and pentesting brought you by http://www.pentest.guru .
 
 See how this project started: http://www.pentest.guru/index.php/2015/10/23/cracking-the-chinese-code-infosec-websites/
 
