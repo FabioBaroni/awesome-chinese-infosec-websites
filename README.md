@@ -1,4 +1,4 @@
-# awesome-chinese-infosec-websites
+# Awesome-Chinese-Infosec-Websites
 A curated list of Chinese websites and personal blogs about ethical hacking and pentesting brought you by http://www.pentest.guru .
 
 See how this project started: http://www.pentest.guru/index.php/2015/10/23/cracking-the-chinese-code-infosec-websites/
@@ -69,7 +69,7 @@ http://www.backlion.org
 
 http://hongkediguo.com
 
-http://www.isafe.cc (contains also private toolsi)
+http://www.isafe.cc (contains also private tools)
 
 http://www.netfairy.net
 
